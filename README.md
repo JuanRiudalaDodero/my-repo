@@ -1,8 +1,29 @@
 # Contribuir a repositorio existente
 
+ - Clonamos la tarea mediante un git clone y el link.
+ - Nos situamos en el repositorio creado mediante cd.
 
+<img src="Img/Foto5.png" />
+<br>
 
+ - Creamo una rama llamada my-branch mediante git branch y el nombre de la rama.
+ - Nos situamos en ella mediante git checkout y el nombre.
 
+<img src="Img/Foto6.png" />
+<br>
+ 
+ - Creamos 2 archivos mediante touch, los llamaremos file1.md y file2.md
+ - Los subimos mediante git add y los nombres.
+
+<img src="Img/Foto7.png" />
+<br>
+
+ - Hacemos un git commit -m y los archivos para actualizar los cambios.
+
+<img src="Img/Foto8.png" />
+<br>
+
+ - Hacemos un git push origin my-branch para subir los cambios. 
 
 # Crear repositorio y subirlo a git
 
